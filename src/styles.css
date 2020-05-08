@@ -1,0 +1,71 @@
+/* Add application styles & imports to this file! */
+h1{
+position: absolute;
+width: 256px;
+height: 24px;
+left: 674px;
+top: 44px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+
+}
+.bb{
+  position: absolute;
+width: 869px;
+height: 34px;
+left: 369px;
+top: 80px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #4A4A4A;
+
+}
+.convert{
+  position: absolute;
+width: 173px;
+height: 20px;
+left: 499px;
+top: 164px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* HippoPDF_4C3986 */
+
+color: #4C3986;
+
+}
+.request{
+  position: absolute;
+width: 135px;
+height: 20px;
+left: 951px;
+top: 164px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Deactivated/ACABB1 */
+
+color: #ACABB1;
+}
