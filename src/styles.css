@@ -35,7 +35,7 @@ color: #4A4A4A;
 width: 173px;
 height: 20px;
 left: 499px;
-top: 164px;
+top: 160px;
 
 font-family: Lato;
 font-style: normal;
@@ -55,7 +55,7 @@ color: #4C3986;
 width: 135px;
 height: 20px;
 left: 951px;
-top: 164px;
+top: 160px;
 
 font-family: Lato;
 font-style: normal;
@@ -78,4 +78,22 @@ bottom: 0%;
 
 background: #FFC107;
 
+}
+.con{
+  position: absolute;
+width: 435px;
+height: 0px;
+left: 365px;
+top: 192px;
+
+border: 1px solid #4C3986;
+}
+.req{
+  position: absolute;
+width: 434px;
+height: 0px;
+left: 800px;
+top: 192px;
+
+border: 1px solid #BDDAE9;
 }
