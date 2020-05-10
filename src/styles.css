@@ -70,13 +70,15 @@ line-height: 19px;
 color: #ACABB1;
 }
 .rect{
-  position: absolute;
-left: 14.58%;
-right: 14.58%;
-top: 41.67%;
-bottom: 0%;
 
-background: #FFC107;
+position: absolute;
+width: 869px;
+height: 400px;
+left: 365px;
+top: 246px;
+
+background: #E8F2F7;
+border-radius: 8px;
 
 }
 .con{
@@ -103,5 +105,33 @@ width: 16px;
 height: 16px;
 left: 923px;
 top: 173px;
+
+}
+.upload{
+  position: absolute;
+width: 150px;
+height: 48px;
+left: 365px;
+top: 246px;
+
+background: #4C3986;
+border-radius: 8px 0px;
+}
+.upl{
+  position: absolute;
+width: 70px;
+height: 17px;
+left: 405px;
+top: 248px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 }
