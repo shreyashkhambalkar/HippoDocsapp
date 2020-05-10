@@ -135,3 +135,33 @@ line-height: 17px;
 color: #FFFFFF;
 
 }
+.mar{
+  position: absolute;
+width: 36px;
+height: 12px;
+left: 445px;
+top: 318px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+
+color: #4A4A4A;
+
+}
+.gin{
+  position: absolute;
+width: 260px;
+height: 1px;
+left: 445px;
+top: 334px;
+
+/* HippoPDF_4A4A4A */
+
+background: #4A4A4A;
+border-radius: 5px;
+}
