@@ -97,3 +97,11 @@ top: 192px;
 
 border: 1px solid #BDDAE9;
 }
+.lock{
+  position: absolute;
+width: 16px;
+height: 16px;
+left: 923px;
+top: 173px;
+
+}
